@@ -37,7 +37,7 @@ myst_enable_extensions = [
     "colon_fence",
     "deflist",
 ]
-nb_execution_mode = "auto"
+nb_execution_mode = "off"
 
 # Napoleon settings
 napoleon_google_docstring = False

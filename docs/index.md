@@ -52,4 +52,4 @@ combine_pdfs(
 )
 ```
 
-For more detailed examples, check out our [example notebook](example.ipynb).
+For more detailed examples, check out our [example guide](example.md).
